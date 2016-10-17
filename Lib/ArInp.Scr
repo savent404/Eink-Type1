@@ -1,0 +1,13 @@
+--create ..\Lib\STD_HAL.lib
+..\lib\stm32f2xx_hal_rcc.o
+..\lib\stm32f2xx_hal_dma_ex.o
+..\lib\stm32f2xx_hal_spi.o
+..\lib\stm32f2xx_hal_gpio.o
+..\lib\stm32f2xx_hal_pwr.o
+..\lib\stm32f2xx_hal_rcc_ex.o
+..\lib\stm32f2xx_hal.o
+..\lib\stm32f2xx_hal_dma.o
+..\lib\stm32f2xx_hal_flash.o
+..\lib\stm32f2xx_hal_flash_ex.o
+..\lib\stm32f2xx_hal_cortex.o
+..\lib\stm32f2xx_hal_pwr_ex.o
